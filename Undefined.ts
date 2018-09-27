@@ -1,0 +1,4 @@
+function input(i: boolean)
+{
+    
+}
